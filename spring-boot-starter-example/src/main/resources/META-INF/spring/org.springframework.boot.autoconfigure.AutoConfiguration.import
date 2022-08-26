@@ -1,1 +1,1 @@
-#com.example.springbootstarterexample.configuration.Config
+com.example.springbootstarterexample.autoconfigure.ExampleAutoConfiguration
